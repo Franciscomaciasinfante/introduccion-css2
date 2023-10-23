@@ -1,0 +1,15 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box
+}
+
+p {
+  blackground-color: red;  
+}
+.destacado {
+    border:1px slodid yellow;
+}
+#parrafo3-grande {
+    front-size: 24rem;
+}
